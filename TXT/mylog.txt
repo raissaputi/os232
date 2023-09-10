@@ -4,9 +4,9 @@
 ZCZC W00 15 L03 GitHub related
 ZCZC W00 200 L02 Offline class session
 ZCZC W00 30 L05 Dummy Quiz + Quiz 01
-ZCZC W00 25 L10 Assignment #00
+ZCZC W00 25 L09 Assignment in General
 ZCZC W01 200 L02 Offline class session
 ZCZC W01 60 L05 Quiz related including studying
 ZCZC W01 120 L09 Assignment in General
 ZCZC W01 10 L04 GitHub Pages related
-ZCZC W01 10 L11 Assignment #01
+ZCZC W01 10 L09 Finishing Assignment
