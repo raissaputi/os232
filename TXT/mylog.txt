@@ -10,3 +10,7 @@ ZCZC W01 60 L05 Quiz related including studying
 ZCZC W01 120 L09 Assignment in General
 ZCZC W01 10 L04 GitHub Pages related
 ZCZC W01 10 L09 Finishing Assignment
+ZCZC W02 200 L02 Offline class session
+ZCZC W02 90 L05 Quiz related including studying
+ZCZC W02 45 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W02 100 L09 Assignment in General
