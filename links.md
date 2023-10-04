@@ -23,7 +23,10 @@ Another article about file system. Very easy to understand and helpful.
 Explaining file system mounting with visualization.
 
 * [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) ---
-I don't know if this is relevant to the course, but it is interesting to learn.
+I don't know if this is relevant to the course, but it is interesting to learn
+
+* [The Linux Programming Interface](https://man7.org/tlpi/) ---
+TLPI Book. A detailed guide and reference for system programming on Linux and UNIX systems.
 
 <br>
 <hr>
