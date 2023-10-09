@@ -28,5 +28,10 @@ I don't know if this is relevant to the course, but it is interesting to learn
 * [The Linux Programming Interface](https://man7.org/tlpi/) ---
 TLPI Book. A detailed guide and reference for system programming on Linux and UNIX systems.
 
+* [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/) ---
+Memory can be defined as a collection of data in a specific format. It is used to store instructions and process data.
+
+* [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) ---
+Virtual Memory is a storage allocation scheme in which secondary memory can be addressed as though it were part of the main memory.
 <br>
 <hr>
