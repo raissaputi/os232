@@ -33,5 +33,17 @@ Memory can be defined as a collection of data in a specific format. It is used t
 
 * [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) ---
 Virtual Memory is a storage allocation scheme in which secondary memory can be addressed as though it were part of the main memory.
+
+* [Understanding fork() system call for new process creation](https://youtu.be/PwxTbksJ2fo?si=MvqOur5DvGO9mMhB) ---
+Explanation on the fork() system call. Very well-explained execution process.
+
+* [Illustration on fork() system call](https://youtu.be/_kUiH8DG-Ao?si=Skg-NuJDJuRuul-2) ---
+Ilustration on the fork() execution process. Very helpfull
+
+* [Fork System call | Wait System call | Operating system concepts](https://youtu.be/RpKQO3hgvD4?si=G7lAalwliLnzITgK) ---
+Explanation and demonstration on fork and wait system call
+
+
+
 <br>
 <hr>
