@@ -1,6 +1,9 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W07 100 L02 Offline class
+ZCZC W07 70 L09 Assignmet
+ZCZC W07 20 L06 Browsing
 ZCZC W06 100 L02 Offline class session
 ZCZC W06 60 L09 Assignment
 ZCZC W06 30 L06 Browsing and GSGS

@@ -43,6 +43,11 @@ Ilustration on the fork() execution process. Very helpfull
 * [Fork System call | Wait System call | Operating system concepts](https://youtu.be/RpKQO3hgvD4?si=G7lAalwliLnzITgK) ---
 Explanation and demonstration on fork and wait system call
 
+* [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) ---
+This web introduce and explain what deadlock is in operating system. 
+
+* [Quick explanation: Critical section. Critical section problem.](https://www.youtube.com/watch?v=BSX1YEoCVgA) ---
+This video explains what critical section is. The visualization makes it easy to understand.
 
 
 <br>
