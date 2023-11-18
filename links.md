@@ -49,6 +49,8 @@ This web introduce and explain what deadlock is in operating system.
 * [Quick explanation: Critical section. Critical section problem.](https://www.youtube.com/watch?v=BSX1YEoCVgA) ---
 This video explains what critical section is. The visualization makes it easy to understand.
 
+* [Process Synchronisation - Operating Systems](https://youtu.be/eKKc0d7kzww?si=o6eRO2zMRgI2Mjoh) ---
+Easy to understand illustration on process synchronisation
 
 <br>
 <hr>
