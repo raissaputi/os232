@@ -52,5 +52,13 @@ This video explains what critical section is. The visualization makes it easy to
 * [Process Synchronisation - Operating Systems](https://youtu.be/eKKc0d7kzww?si=o6eRO2zMRgI2Mjoh) ---
 Easy to understand illustration on process synchronisation
 
+* [RAID](https://www.prepressure.com/library/technology/raid) ---
+Explanations about RAID, complete with illustration.
+
+* [LFS Playlist](https://youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&si=c39IWpkKLafMbPmA) ---
+A step-by-step guide to make LFS.
+
+😸
+
 <br>
 <hr>
